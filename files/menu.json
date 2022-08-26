@@ -1,0 +1,7 @@
+{
+  "system/setup": {
+    "title": "Set Up",
+    "index": 30,
+    "view": "vuci-app-setup"
+  }
+}
